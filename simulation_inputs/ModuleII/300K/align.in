@@ -1,0 +1,34 @@
+# cpptraj script for post-processing Au–thiol SAM trajectory
+# Prevents imaging errors and keeps slab fixed in place
+
+parm TEMPO-SAM-11.parm7
+
+# Load trajectories
+trajin heat1.nc 1 last 1
+trajin equil1.nc 1 last 1
+trajin equil1-2.nc 1 last 1
+# --- Define atom masks ---
+# Au atoms are residues 1–2400
+# Linkers are residues 2401–2541
+# We exclude hydrogens to avoid noise in fitting
+
+# --- Step 1: Reference frame (slab as origin) ---
+# The slab (Au atoms) will remain fixed; we image everything else around it
+
+autoimage anchor :1-2400 origin
+autoimage
+#   -> First line sets Au atoms as anchor (reference that doesn't move)
+#   -> Second line reimages all other atoms relative to this anchor
+
+# --- Step 2: RMS fit (optional) ---
+# Fit the system to the gold surface (keeps slab steady)
+rms fit :1-2400&!@H= mass
+
+# Alternatively, if you want linkers to appear stationary instead of the slab:
+# rms fit :2401-2541&!@H= mass
+
+# --- Step 3: Output cleaned trajectory ---
+trajout TEMPO-SAM-11.xtc xtc
+
+run
+quit

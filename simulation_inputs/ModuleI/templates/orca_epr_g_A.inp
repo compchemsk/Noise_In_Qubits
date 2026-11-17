@@ -1,0 +1,20 @@
+# TEMPLATE -- g tensor and 14N hyperfine tensor at one displaced geometry.
+# Level of theory used in the paper: B2PLYP / EPR-II, ORCA 5.0.1, default
+# spin-orbit mean-field (SOMF) treatment for g.  For double hybrids the
+# relaxed MP2 density is required for the property calculation.
+# Check the keyword syntax against the manual of your ORCA version.
+! UKS B2PLYP EPR-II AutoAux TightSCF
+
+%maxcore 4000
+%pal nprocs 16 end
+
+%mp2
+  Density relaxed
+end
+
+%eprnmr
+  GTensor 1
+  Nuclei = all N { aiso, adip }
+end
+
+* xyzfile 0 2 mode07_Q+0.40.xyz

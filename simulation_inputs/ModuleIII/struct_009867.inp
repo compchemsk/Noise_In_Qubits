@@ -1,0 +1,13 @@
+! UKS B2PLYP D3BJ EPR-II AUTOAUX TIGHTSCF
+
+%maxcore 4000
+
+%pal
+   nprocs 40
+end
+
+%scf
+   BrokenSym 1,1
+end
+
+* xyzfile 0 3 struct_009867.xyz

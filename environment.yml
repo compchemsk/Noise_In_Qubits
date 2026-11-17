@@ -1,0 +1,13 @@
+name: noise-in-qubits
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=2.0
+  - scipy>=1.11
+  - pandas>=2.2
+  - scikit-learn>=1.5
+  - matplotlib>=3.8
+  - joblib>=1.3
+  - pillow>=10.0
+  - gcc            # for the XTC decoder (or use the system compiler)

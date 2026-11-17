@@ -1,0 +1,23 @@
+\begin{tabular}{llrrrl}
+\toprule
+Data set & Model & $k$ & $\chi^2$ & $\Delta$AICc & Key parameter\\
+\midrule
+PTEMPO (slow) & direct + one local mode & 3 & 28.2 & 0.0 & $\Delta = 139\pm10$ cm$^{-1}$\\
+ & direct + Raman $bT^m$ & 3 & 50.3 & 22.2 & $m = 4.7\pm0.3$\\
+ & direct + DFT modes, $w_k\propto(\partial A/\partial Q_k)^2$ & 2 & 637.6 & 602.5 & --\\
+ & direct + DFT modes, $w_k\propto(\partial\nu_g/\partial Q_k)^2$ & 2 & 704.2 & 669.0 & --\\
+ & direct + DFT modes, both & 2 & 696.5 & 661.4 & --\\
+\midrule
+PTEMPO (fast) & direct + one local mode & 3 & 6.0 & 0.0 & $\Delta = 124\pm14$ cm$^{-1}$\\
+ & direct + Raman $bT^m$ & 3 & 7.1 & 1.1 & $m = 4.3\pm0.4$\\
+ & direct + DFT modes, $w_k\propto(\partial A/\partial Q_k)^2$ & 2 & 53.0 & 40.0 & --\\
+ & direct + DFT modes, $w_k\propto(\partial\nu_g/\partial Q_k)^2$ & 2 & 59.4 & 46.4 & --\\
+ & direct + DFT modes, both & 2 & 58.7 & 45.6 & --\\
+\midrule
+TEMPO SAM & direct + one local mode & 3 & 1.0 & 15.5 & $\Delta = 102\pm21$ cm$^{-1}$\\
+ & direct + Raman $bT^m$ & 3 & 0.8 & 15.3 & $m = 4.3\pm0.7$\\
+ & direct + DFT modes, $w_k\propto(\partial A/\partial Q_k)^2$ & 2 & 5.5 & 0.0 & --\\
+ & direct + DFT modes, $w_k\propto(\partial\nu_g/\partial Q_k)^2$ & 2 & 6.4 & 0.9 & --\\
+ & direct + DFT modes, both & 2 & 6.3 & 0.8 & --\\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+md_raw/
+md_bin/
+python_codes/xtc_reader/xtc2bin
+simulation_inputs/ModuleIII/generated_structures/
+data/module3/md_keyatoms_*.npz
+data/module3/final_model.joblib
+data/module3/pairs_allatoms.npz
+*.aux
+*.log
+*.out

@@ -1,0 +1,12 @@
+\begin{tabular}{lcccc}
+\toprule
+Model & $R^2$ & RMSE$_y$ & Within $\times3$ (\%) & Within $\times10$ (\%)\\
+\midrule
+ExtraTrees & $0.77$ & $0.74$ & $70$ & $100$\\
+RandomForest & $0.77$ & $0.74$ & $64$ & $100$\\
+GPR-Matern & $0.75$ & $0.76$ & $66$ & $99$\\
+KRR-Laplace & $0.73$ & $0.79$ & $64$ & $99$\\
+Baseline, $\exp(-r_\mathrm{NO})$ & $0.31$ & $1.27$ & $61$ & $93$\\
+Baseline, $S^2$ + O$\cdots$H & $0.32$ & $1.25$ & $64$ & $94$\\
+\bottomrule
+\end{tabular}

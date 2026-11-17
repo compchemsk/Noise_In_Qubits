@@ -1,0 +1,32 @@
+{
+ "T300_r1": {
+  "rms_dev_heavy_intact": 0.03330340842560095,
+  "max_abs_dev_heavy_intact": 0.17206946372985832,
+  "max_abs_dev_H_intact": 0.015520098686218287
+ },
+ "T300_r2": {
+  "rms_dev_heavy_intact": 0.03330026392886142,
+  "max_abs_dev_heavy_intact": 0.193909854888916,
+  "max_abs_dev_H_intact": 0.0160102872848511
+ },
+ "T300_r3": {
+  "rms_dev_heavy_intact": 0.03328277630446956,
+  "max_abs_dev_heavy_intact": 0.1709912757873535,
+  "max_abs_dev_H_intact": 0.01569462108612063
+ },
+ "T100_r1": {
+  "rms_dev_heavy_intact": 0.02196473471694887,
+  "max_abs_dev_heavy_intact": 0.1333902816772461,
+  "max_abs_dev_H_intact": 0.015295866012573267
+ },
+ "T100_r2": {
+  "rms_dev_heavy_intact": 0.02196384000363614,
+  "max_abs_dev_heavy_intact": 0.1333902816772461,
+  "max_abs_dev_H_intact": 0.015799161911010717
+ },
+ "T100_r3": {
+  "rms_dev_heavy_intact": 0.021941416933173478,
+  "max_abs_dev_heavy_intact": 0.1333902816772461,
+  "max_abs_dev_H_intact": 0.015386107444763208
+ }
+}

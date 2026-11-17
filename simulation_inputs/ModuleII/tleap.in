@@ -1,0 +1,21 @@
+# tleap.in
+# Build parameter/topology files for Au + thiol SAM
+
+source leaprc.gaff
+source leaprc.interface_v1_5
+
+# Your custom topology/params for the linkers
+loadamberparams ./TEMPO-LIN.frcmod
+loadoff ./TEMPO-LIN.lib
+
+# Load PDB (Au 1-2400 ; linkers 2401-2541)
+mol = loadpdb TEMPO-SAM-11-init-struct-vmd.pdb
+
+# Optional: print net charge
+charge mol
+
+# Save files for sander/pmemd
+saveamberparm mol TEMPO-SAM-11.parm7 TEMPO-SAM-11.rst7
+savepdb mol TEMPO-SAM-11-leap.pdb
+
+quit

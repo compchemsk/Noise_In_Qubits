@@ -1,0 +1,38 @@
+{
+ "T300_r1": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.2898067111968994,
+  "rms_dev_heavy": 0.07489750111110541,
+  "max_abs_dev_Hbonds": 0.015520098686218287
+ },
+ "T300_r2": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.308606969833374,
+  "rms_dev_heavy": 0.07489599033231267,
+  "max_abs_dev_Hbonds": 0.0160102872848511
+ },
+ "T300_r3": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.2750736351013183,
+  "rms_dev_heavy": 0.07488869908013673,
+  "max_abs_dev_Hbonds": 0.01569462108612063
+ },
+ "T100_r1": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.2262548084259033,
+  "rms_dev_heavy": 0.07044944559660693,
+  "max_abs_dev_Hbonds": 0.015295866012573267
+ },
+ "T100_r2": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.2456849689483642,
+  "rms_dev_heavy": 0.07042493158776988,
+  "max_abs_dev_Hbonds": 0.015799161911010717
+ },
+ "T100_r3": {
+  "frames": 1100,
+  "max_abs_dev_all": 1.2478374118804931,
+  "rms_dev_heavy": 0.07045227427881286,
+  "max_abs_dev_Hbonds": 0.0158349304199219
+ }
+}

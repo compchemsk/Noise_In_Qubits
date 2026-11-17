@@ -1,0 +1,961 @@
+T,rep,window,group,observable,value
+300,1,last5,all,h_S (A),2.6856205463409424
+300,1,last5,all,h_spin (A),12.284905433654785
+300,1,last5,all,sd_h_spin (A),6.418237209320068
+300,1,last5,all,theta_NO (deg),83.21905335130789
+300,1,last5,all,P2_NO,-0.12508409903595402
+300,1,last5,all,frac_NO_up (theta<60),0.234
+300,1,last5,all,frac_NO_down (theta>120),0.12293617021276596
+300,1,last5,all,tilt (deg),38.55501294298939
+300,1,last5,all,gauche,0.3308971631205674
+300,1,last5,all,contact_frac (O-Au<3.5),0.2028936170212766
+300,1,last5,all,molecules_in_contact,29.0
+300,1,last5,all,nn1 (A),6.279428763880825
+300,1,last5,all,nn2 (A),7.803314081596574
+300,1,last5,all,n_within_6A,0.3580709219858156
+300,1,last5,all,n_within_8A,1.9636312056737588
+300,1,last5,all,frac_nn1<5A,0.13975886524822695
+300,1,last5,interior,h_S (A),2.683831214904785
+300,1,last5,interior,h_spin (A),16.143213272094727
+300,1,last5,interior,sd_h_spin (A),4.117019176483154
+300,1,last5,interior,theta_NO (deg),74.83797745728474
+300,1,last5,interior,P2_NO,-0.11009488468540939
+300,1,last5,interior,frac_NO_up (theta<60),0.31026966292134833
+300,1,last5,interior,frac_NO_down (theta>120),0.05696629213483146
+300,1,last5,interior,tilt (deg),26.51742109968868
+300,1,last5,interior,gauche,0.2987443820224719
+300,1,last5,interior,contact_frac (O-Au<3.5),0.025213483146067417
+300,1,last5,interior,molecules_in_contact,2.0
+300,1,last5,interior,nn1 (A),6.156978897553541
+300,1,last5,interior,nn2 (A),7.659115670206663
+300,1,last5,interior,n_within_6A,0.4142696629213483
+300,1,last5,interior,n_within_8A,2.1226516853932584
+300,1,last5,interior,frac_nn1<5A,0.1596179775280899
+300,1,last5,edge,h_S (A),2.688682794570923
+300,1,last5,edge,h_spin (A),5.681262016296387
+300,1,last5,edge,sd_h_spin (A),3.687978982925415
+300,1,last5,edge,theta_NO (deg),97.56358709300137
+300,1,last5,edge,P2_NO,-0.15073871590515542
+300,1,last5,edge,frac_NO_up (theta<60),0.10346153846153847
+300,1,last5,edge,frac_NO_down (theta>120),0.23584615384615384
+300,1,last5,edge,tilt (deg),59.15781436710022
+300,1,last5,edge,gauche,0.38592788461538463
+300,1,last5,edge,contact_frac (O-Au<3.5),0.507
+300,1,last5,edge,molecules_in_contact,27.0
+300,1,last5,edge,nn1 (A),6.489006419710213
+300,1,last5,edge,nn2 (A),8.05011520878315
+300,1,last5,edge,n_within_6A,0.2618846153846154
+300,1,last5,edge,n_within_8A,1.6914615384615386
+300,1,last5,edge,frac_nn1<5A,0.10576923076923077
+300,1,last5,intact,h_S (A),2.6856205463409424
+300,1,last5,intact,h_spin (A),12.284905433654785
+300,1,last5,intact,sd_h_spin (A),6.418237209320068
+300,1,last5,intact,theta_NO (deg),83.21905335130789
+300,1,last5,intact,P2_NO,-0.12508409903595402
+300,1,last5,intact,frac_NO_up (theta<60),0.234
+300,1,last5,intact,frac_NO_down (theta>120),0.12293617021276596
+300,1,last5,intact,tilt (deg),38.55501294298939
+300,1,last5,intact,gauche,0.3308971631205674
+300,1,last5,intact,contact_frac (O-Au<3.5),0.2028936170212766
+300,1,last5,intact,molecules_in_contact,29.0
+300,1,last5,intact,nn1 (A),6.279428763880825
+300,1,last5,intact,nn2 (A),7.803314081596574
+300,1,last5,intact,n_within_6A,0.3580709219858156
+300,1,last5,intact,n_within_8A,1.9636312056737588
+300,1,last5,intact,frac_nn1<5A,0.13975886524822695
+300,1,last5,intact_interior,h_S (A),2.683831214904785
+300,1,last5,intact_interior,h_spin (A),16.143213272094727
+300,1,last5,intact_interior,sd_h_spin (A),4.117019176483154
+300,1,last5,intact_interior,theta_NO (deg),74.83797745728474
+300,1,last5,intact_interior,P2_NO,-0.11009488468540939
+300,1,last5,intact_interior,frac_NO_up (theta<60),0.31026966292134833
+300,1,last5,intact_interior,frac_NO_down (theta>120),0.05696629213483146
+300,1,last5,intact_interior,tilt (deg),26.51742109968868
+300,1,last5,intact_interior,gauche,0.2987443820224719
+300,1,last5,intact_interior,contact_frac (O-Au<3.5),0.025213483146067417
+300,1,last5,intact_interior,molecules_in_contact,2.0
+300,1,last5,intact_interior,nn1 (A),6.156978897553541
+300,1,last5,intact_interior,nn2 (A),7.659115670206663
+300,1,last5,intact_interior,n_within_6A,0.4142696629213483
+300,1,last5,intact_interior,n_within_8A,2.1226516853932584
+300,1,last5,intact_interior,frac_nn1<5A,0.1596179775280899
+300,1,first5,all,h_S (A),2.650865316390991
+300,1,first5,all,h_spin (A),13.156962394714355
+300,1,first5,all,sd_h_spin (A),6.644771575927734
+300,1,first5,all,theta_NO (deg),80.34657778663453
+300,1,first5,all,P2_NO,-0.06622970798359586
+300,1,first5,all,frac_NO_up (theta<60),0.2868794326241135
+300,1,first5,all,frac_NO_down (theta>120),0.12834042553191488
+300,1,first5,all,tilt (deg),35.51817645415441
+300,1,first5,all,gauche,0.32093439716312055
+300,1,first5,all,contact_frac (O-Au<3.5),0.17334751773049645
+300,1,first5,all,molecules_in_contact,26.0
+300,1,first5,all,nn1 (A),6.153924747204351
+300,1,first5,all,nn2 (A),7.838400112121265
+300,1,first5,all,n_within_6A,0.4138723404255319
+300,1,first5,all,n_within_8A,1.9584964539007093
+300,1,first5,all,frac_nn1<5A,0.1421418439716312
+300,1,first5,interior,h_S (A),2.651641607284546
+300,1,first5,interior,h_spin (A),16.944440841674805
+300,1,first5,interior,sd_h_spin (A),4.271910190582275
+300,1,first5,interior,theta_NO (deg),70.4576923099113
+300,1,first5,interior,P2_NO,-0.028993732479504063
+300,1,first5,interior,frac_NO_up (theta<60),0.39101123595505616
+300,1,first5,interior,frac_NO_down (theta>120),0.06548314606741573
+300,1,first5,interior,tilt (deg),25.76484511952457
+300,1,first5,interior,gauche,0.27761797752808987
+300,1,first5,interior,contact_frac (O-Au<3.5),0.02184269662921348
+300,1,first5,interior,molecules_in_contact,2.0
+300,1,first5,interior,nn1 (A),6.035858829295171
+300,1,first5,interior,nn2 (A),7.643080608578955
+300,1,first5,interior,n_within_6A,0.47364044943820227
+300,1,first5,interior,n_within_8A,2.145685393258427
+300,1,first5,interior,frac_nn1<5A,0.1617752808988764
+300,1,first5,edge,h_S (A),2.6495368480682373
+300,1,first5,edge,h_spin (A),6.674550533294678
+300,1,first5,edge,sd_h_spin (A),4.681306838989258
+300,1,first5,edge,theta_NO (deg),97.27178562179544
+300,1,first5,edge,P2_NO,-0.12996051221175292
+300,1,first5,edge,frac_NO_up (theta<60),0.10865384615384616
+300,1,first5,edge,frac_NO_down (theta>120),0.23592307692307693
+300,1,first5,edge,tilt (deg),52.21137816150162
+300,1,first5,edge,gauche,0.3950721153846154
+300,1,first5,edge,contact_frac (O-Au<3.5),0.43265384615384617
+300,1,first5,edge,molecules_in_contact,24.0
+300,1,first5,edge,nn1 (A),6.355999106702754
+300,1,first5,edge,nn2 (A),8.172696954722527
+300,1,first5,edge,n_within_6A,0.3115769230769231
+300,1,first5,edge,n_within_8A,1.6381153846153846
+300,1,first5,edge,frac_nn1<5A,0.10853846153846154
+300,1,first5,intact,h_S (A),2.650865316390991
+300,1,first5,intact,h_spin (A),13.156962394714355
+300,1,first5,intact,sd_h_spin (A),6.644771575927734
+300,1,first5,intact,theta_NO (deg),80.34657778663453
+300,1,first5,intact,P2_NO,-0.06622970798359586
+300,1,first5,intact,frac_NO_up (theta<60),0.2868794326241135
+300,1,first5,intact,frac_NO_down (theta>120),0.12834042553191488
+300,1,first5,intact,tilt (deg),35.51817645415441
+300,1,first5,intact,gauche,0.32093439716312055
+300,1,first5,intact,contact_frac (O-Au<3.5),0.17334751773049645
+300,1,first5,intact,molecules_in_contact,26.0
+300,1,first5,intact,nn1 (A),6.153924747204351
+300,1,first5,intact,nn2 (A),7.838400112121265
+300,1,first5,intact,n_within_6A,0.4138723404255319
+300,1,first5,intact,n_within_8A,1.9584964539007093
+300,1,first5,intact,frac_nn1<5A,0.1421418439716312
+300,1,first5,intact_interior,h_S (A),2.651641607284546
+300,1,first5,intact_interior,h_spin (A),16.944440841674805
+300,1,first5,intact_interior,sd_h_spin (A),4.271910190582275
+300,1,first5,intact_interior,theta_NO (deg),70.4576923099113
+300,1,first5,intact_interior,P2_NO,-0.028993732479504063
+300,1,first5,intact_interior,frac_NO_up (theta<60),0.39101123595505616
+300,1,first5,intact_interior,frac_NO_down (theta>120),0.06548314606741573
+300,1,first5,intact_interior,tilt (deg),25.76484511952457
+300,1,first5,intact_interior,gauche,0.27761797752808987
+300,1,first5,intact_interior,contact_frac (O-Au<3.5),0.02184269662921348
+300,1,first5,intact_interior,molecules_in_contact,2.0
+300,1,first5,intact_interior,nn1 (A),6.035858829295171
+300,1,first5,intact_interior,nn2 (A),7.643080608578955
+300,1,first5,intact_interior,n_within_6A,0.47364044943820227
+300,1,first5,intact_interior,n_within_8A,2.145685393258427
+300,1,first5,intact_interior,frac_nn1<5A,0.1617752808988764
+300,2,last5,all,h_S (A),2.686586380004883
+300,2,last5,all,h_spin (A),11.97500991821289
+300,2,last5,all,sd_h_spin (A),6.261373043060303
+300,2,last5,all,theta_NO (deg),78.32881328287937
+300,2,last5,all,P2_NO,-0.11802890486043631
+300,2,last5,all,frac_NO_up (theta<60),0.28588652482269505
+300,2,last5,all,frac_NO_down (theta>120),0.10590070921985816
+300,2,last5,all,tilt (deg),41.080959609367504
+300,2,last5,all,gauche,0.346040780141844
+300,2,last5,all,contact_frac (O-Au<3.5),0.17862411347517732
+300,2,last5,all,molecules_in_contact,28.0
+300,2,last5,all,nn1 (A),6.336427006329255
+300,2,last5,all,nn2 (A),8.015529533138915
+300,2,last5,all,n_within_6A,0.3915177304964539
+300,2,last5,all,n_within_8A,1.7434609929078013
+300,2,last5,all,frac_nn1<5A,0.17921985815602837
+300,2,last5,interior,h_S (A),2.6858832836151123
+300,2,last5,interior,h_spin (A),15.851923942565918
+300,2,last5,interior,sd_h_spin (A),3.818922996520996
+300,2,last5,interior,theta_NO (deg),68.1786632933628
+300,2,last5,interior,P2_NO,-0.07586532584225833
+300,2,last5,interior,frac_NO_up (theta<60),0.40286666666666665
+300,2,last5,interior,frac_NO_down (theta>120),0.036955555555555554
+300,2,last5,interior,tilt (deg),28.69963851433677
+300,2,last5,interior,gauche,0.3192833333333333
+300,2,last5,interior,contact_frac (O-Au<3.5),0.0
+300,2,last5,interior,molecules_in_contact,0.0
+300,2,last5,interior,nn1 (A),6.049071464055451
+300,2,last5,interior,nn2 (A),7.550958816313555
+300,2,last5,interior,n_within_6A,0.4453111111111111
+300,2,last5,interior,n_within_8A,2.042422222222222
+300,2,last5,interior,frac_nn1<5A,0.17184444444444444
+300,2,last5,edge,h_S (A),2.6878271102905273
+300,2,last5,edge,h_spin (A),5.133396625518799
+300,2,last5,edge,sd_h_spin (A),3.0530192852020264
+300,2,last5,edge,theta_NO (deg),96.24084267614391
+300,2,last5,edge,P2_NO,-0.19243522077486805
+300,2,last5,edge,frac_NO_up (theta<60),0.07945098039215687
+300,2,last5,edge,frac_NO_down (theta>120),0.2275686274509804
+300,2,last5,edge,tilt (deg),62.9303497770688
+300,2,last5,edge,gauche,0.3932598039215686
+300,2,last5,edge,contact_frac (O-Au<3.5),0.493843137254902
+300,2,last5,edge,molecules_in_contact,28.0
+300,2,last5,edge,nn1 (A),6.843525022106554
+300,2,last5,edge,nn2 (A),8.835360209889547
+300,2,last5,edge,n_within_6A,0.29658823529411765
+300,2,last5,edge,n_within_8A,1.2158823529411764
+300,2,last5,edge,frac_nn1<5A,0.19223529411764706
+300,2,last5,intact,h_S (A),2.686586380004883
+300,2,last5,intact,h_spin (A),11.97500991821289
+300,2,last5,intact,sd_h_spin (A),6.261373043060303
+300,2,last5,intact,theta_NO (deg),78.32881328287937
+300,2,last5,intact,P2_NO,-0.11802890486043631
+300,2,last5,intact,frac_NO_up (theta<60),0.28588652482269505
+300,2,last5,intact,frac_NO_down (theta>120),0.10590070921985816
+300,2,last5,intact,tilt (deg),41.080959609367504
+300,2,last5,intact,gauche,0.346040780141844
+300,2,last5,intact,contact_frac (O-Au<3.5),0.17862411347517732
+300,2,last5,intact,molecules_in_contact,28.0
+300,2,last5,intact,nn1 (A),6.336427006329255
+300,2,last5,intact,nn2 (A),8.015529533138915
+300,2,last5,intact,n_within_6A,0.3915177304964539
+300,2,last5,intact,n_within_8A,1.7434609929078013
+300,2,last5,intact,frac_nn1<5A,0.17921985815602837
+300,2,last5,intact_interior,h_S (A),2.6858832836151123
+300,2,last5,intact_interior,h_spin (A),15.851923942565918
+300,2,last5,intact_interior,sd_h_spin (A),3.818922996520996
+300,2,last5,intact_interior,theta_NO (deg),68.1786632933628
+300,2,last5,intact_interior,P2_NO,-0.07586532584225833
+300,2,last5,intact_interior,frac_NO_up (theta<60),0.40286666666666665
+300,2,last5,intact_interior,frac_NO_down (theta>120),0.036955555555555554
+300,2,last5,intact_interior,tilt (deg),28.69963851433677
+300,2,last5,intact_interior,gauche,0.3192833333333333
+300,2,last5,intact_interior,contact_frac (O-Au<3.5),0.0
+300,2,last5,intact_interior,molecules_in_contact,0.0
+300,2,last5,intact_interior,nn1 (A),6.049071464055451
+300,2,last5,intact_interior,nn2 (A),7.550958816313555
+300,2,last5,intact_interior,n_within_6A,0.4453111111111111
+300,2,last5,intact_interior,n_within_8A,2.042422222222222
+300,2,last5,intact_interior,frac_nn1<5A,0.17184444444444444
+300,2,first5,all,h_S (A),2.649975299835205
+300,2,first5,all,h_spin (A),12.866984367370605
+300,2,first5,all,sd_h_spin (A),6.444891929626465
+300,2,first5,all,theta_NO (deg),77.3993590406533
+300,2,first5,all,P2_NO,-0.09908786350294929
+300,2,first5,all,frac_NO_up (theta<60),0.3004113475177305
+300,2,first5,all,frac_NO_down (theta>120),0.09960283687943262
+300,2,first5,all,tilt (deg),38.119106739284575
+300,2,first5,all,gauche,0.3392695035460993
+300,2,first5,all,contact_frac (O-Au<3.5),0.16278014184397163
+300,2,first5,all,molecules_in_contact,25.0
+300,2,first5,all,nn1 (A),6.327120254962728
+300,2,first5,all,nn2 (A),8.03417751247948
+300,2,first5,all,n_within_6A,0.40612765957446806
+300,2,first5,all,n_within_8A,1.7451347517730496
+300,2,first5,all,frac_nn1<5A,0.17463829787234042
+300,2,first5,interior,h_S (A),2.650137186050415
+300,2,first5,interior,h_spin (A),16.66329002380371
+300,2,first5,interior,sd_h_spin (A),3.788431167602539
+300,2,first5,interior,theta_NO (deg),66.64544554460879
+300,2,first5,interior,P2_NO,-0.06549106399986608
+300,2,first5,interior,frac_NO_up (theta<60),0.4195111111111111
+300,2,first5,interior,frac_NO_down (theta>120),0.023911111111111112
+300,2,first5,interior,tilt (deg),27.613952878740808
+300,2,first5,interior,gauche,0.31159166666666666
+300,2,first5,interior,contact_frac (O-Au<3.5),0.0
+300,2,first5,interior,molecules_in_contact,0.0
+300,2,first5,interior,nn1 (A),6.0148427677728415
+300,2,first5,interior,nn2 (A),7.50528094427056
+300,2,first5,interior,n_within_6A,0.46582222222222225
+300,2,first5,interior,n_within_8A,2.0692222222222223
+300,2,first5,interior,frac_nn1<5A,0.17193333333333333
+300,2,first5,edge,h_S (A),2.6496899127960205
+300,2,first5,edge,h_spin (A),6.16762113571167
+300,2,first5,edge,sd_h_spin (A),4.381190299987793
+300,2,first5,edge,theta_NO (deg),96.37685344543769
+300,2,first5,edge,P2_NO,-0.15837633321427258
+300,2,first5,edge,frac_NO_up (theta<60),0.09023529411764705
+300,2,first5,edge,frac_NO_down (theta>120),0.2331764705882353
+300,2,first5,edge,tilt (deg),56.657613552008876
+300,2,first5,edge,gauche,0.3881127450980392
+300,2,first5,edge,contact_frac (O-Au<3.5),0.45003921568627453
+300,2,first5,edge,molecules_in_contact,25.0
+300,2,first5,edge,nn1 (A),6.878198173533116
+300,2,first5,edge,nn2 (A),8.967524397554046
+300,2,first5,edge,n_within_6A,0.3007843137254902
+300,2,first5,edge,n_within_8A,1.1732156862745098
+300,2,first5,edge,frac_nn1<5A,0.17941176470588235
+300,2,first5,intact,h_S (A),2.649975299835205
+300,2,first5,intact,h_spin (A),12.866984367370605
+300,2,first5,intact,sd_h_spin (A),6.444891929626465
+300,2,first5,intact,theta_NO (deg),77.3993590406533
+300,2,first5,intact,P2_NO,-0.09908786350294929
+300,2,first5,intact,frac_NO_up (theta<60),0.3004113475177305
+300,2,first5,intact,frac_NO_down (theta>120),0.09960283687943262
+300,2,first5,intact,tilt (deg),38.119106739284575
+300,2,first5,intact,gauche,0.3392695035460993
+300,2,first5,intact,contact_frac (O-Au<3.5),0.16278014184397163
+300,2,first5,intact,molecules_in_contact,25.0
+300,2,first5,intact,nn1 (A),6.327120254962728
+300,2,first5,intact,nn2 (A),8.03417751247948
+300,2,first5,intact,n_within_6A,0.40612765957446806
+300,2,first5,intact,n_within_8A,1.7451347517730496
+300,2,first5,intact,frac_nn1<5A,0.17463829787234042
+300,2,first5,intact_interior,h_S (A),2.650137186050415
+300,2,first5,intact_interior,h_spin (A),16.66329002380371
+300,2,first5,intact_interior,sd_h_spin (A),3.788431167602539
+300,2,first5,intact_interior,theta_NO (deg),66.64544554460879
+300,2,first5,intact_interior,P2_NO,-0.06549106399986608
+300,2,first5,intact_interior,frac_NO_up (theta<60),0.4195111111111111
+300,2,first5,intact_interior,frac_NO_down (theta>120),0.023911111111111112
+300,2,first5,intact_interior,tilt (deg),27.613952878740808
+300,2,first5,intact_interior,gauche,0.31159166666666666
+300,2,first5,intact_interior,contact_frac (O-Au<3.5),0.0
+300,2,first5,intact_interior,molecules_in_contact,0.0
+300,2,first5,intact_interior,nn1 (A),6.0148427677728415
+300,2,first5,intact_interior,nn2 (A),7.50528094427056
+300,2,first5,intact_interior,n_within_6A,0.46582222222222225
+300,2,first5,intact_interior,n_within_8A,2.0692222222222223
+300,2,first5,intact_interior,frac_nn1<5A,0.17193333333333333
+300,3,last5,all,h_S (A),2.6885135173797607
+300,3,last5,all,h_spin (A),12.721933364868164
+300,3,last5,all,sd_h_spin (A),6.460020065307617
+300,3,last5,all,theta_NO (deg),79.19829200218052
+300,3,last5,all,P2_NO,-0.10630756888045743
+300,3,last5,all,frac_NO_up (theta<60),0.27912056737588653
+300,3,last5,all,frac_NO_down (theta>120),0.10090780141843972
+300,3,last5,all,tilt (deg),37.49437019285436
+300,3,last5,all,gauche,0.30729787234042555
+300,3,last5,all,contact_frac (O-Au<3.5),0.16767375886524824
+300,3,last5,all,molecules_in_contact,25.0
+300,3,last5,all,nn1 (A),6.286570861119744
+300,3,last5,all,nn2 (A),7.869454630618013
+300,3,last5,all,n_within_6A,0.40879432624113476
+300,3,last5,all,n_within_8A,1.8702127659574468
+300,3,last5,all,frac_nn1<5A,0.14672340425531916
+300,3,last5,interior,h_S (A),2.686946392059326
+300,3,last5,interior,h_spin (A),16.392534255981445
+300,3,last5,interior,sd_h_spin (A),4.32459020614624
+300,3,last5,interior,theta_NO (deg),68.93265740743924
+300,3,last5,interior,P2_NO,-0.08624415326818186
+300,3,last5,interior,frac_NO_up (theta<60),0.3792808988764045
+300,3,last5,interior,frac_NO_down (theta>120),0.02844943820224719
+300,3,last5,interior,tilt (deg),27.257362463307885
+300,3,last5,interior,gauche,0.2768679775280899
+300,3,last5,interior,contact_frac (O-Au<3.5),0.011280898876404495
+300,3,last5,interior,molecules_in_contact,1.0
+300,3,last5,interior,nn1 (A),6.076332249806522
+300,3,last5,interior,nn2 (A),7.4906727697206605
+300,3,last5,interior,n_within_6A,0.4821123595505618
+300,3,last5,interior,n_within_8A,2.2149887640449437
+300,3,last5,interior,frac_nn1<5A,0.16779775280898876
+300,3,last5,edge,h_S (A),2.6911959648132324
+300,3,last5,edge,h_spin (A),6.439558982849121
+300,3,last5,edge,sd_h_spin (A),4.315077304840088
+300,3,last5,edge,theta_NO (deg),96.76832044318003
+300,3,last5,edge,P2_NO,-0.14064687637069836
+300,3,last5,edge,frac_NO_up (theta<60),0.1076923076923077
+300,3,last5,edge,frac_NO_down (theta>120),0.22492307692307692
+300,3,last5,edge,tilt (deg),55.015402653039686
+300,3,last5,edge,gauche,0.3593798076923077
+300,3,last5,edge,contact_frac (O-Au<3.5),0.4353461538461538
+300,3,last5,edge,molecules_in_contact,24.0
+300,3,last5,edge,nn1 (A),6.646402330482756
+300,3,last5,edge,nn2 (A),8.517754354076946
+300,3,last5,edge,n_within_6A,0.2833076923076923
+300,3,last5,edge,n_within_8A,1.2801153846153845
+300,3,last5,edge,frac_nn1<5A,0.11065384615384616
+300,3,last5,intact,h_S (A),2.6885135173797607
+300,3,last5,intact,h_spin (A),12.721933364868164
+300,3,last5,intact,sd_h_spin (A),6.460020065307617
+300,3,last5,intact,theta_NO (deg),79.19829200218052
+300,3,last5,intact,P2_NO,-0.10630756888045743
+300,3,last5,intact,frac_NO_up (theta<60),0.27912056737588653
+300,3,last5,intact,frac_NO_down (theta>120),0.10090780141843972
+300,3,last5,intact,tilt (deg),37.49437019285436
+300,3,last5,intact,gauche,0.30729787234042555
+300,3,last5,intact,contact_frac (O-Au<3.5),0.16767375886524824
+300,3,last5,intact,molecules_in_contact,25.0
+300,3,last5,intact,nn1 (A),6.286570861119744
+300,3,last5,intact,nn2 (A),7.869454630618013
+300,3,last5,intact,n_within_6A,0.40879432624113476
+300,3,last5,intact,n_within_8A,1.8702127659574468
+300,3,last5,intact,frac_nn1<5A,0.14672340425531916
+300,3,last5,intact_interior,h_S (A),2.686946392059326
+300,3,last5,intact_interior,h_spin (A),16.392534255981445
+300,3,last5,intact_interior,sd_h_spin (A),4.32459020614624
+300,3,last5,intact_interior,theta_NO (deg),68.93265740743924
+300,3,last5,intact_interior,P2_NO,-0.08624415326818186
+300,3,last5,intact_interior,frac_NO_up (theta<60),0.3792808988764045
+300,3,last5,intact_interior,frac_NO_down (theta>120),0.02844943820224719
+300,3,last5,intact_interior,tilt (deg),27.257362463307885
+300,3,last5,intact_interior,gauche,0.2768679775280899
+300,3,last5,intact_interior,contact_frac (O-Au<3.5),0.011280898876404495
+300,3,last5,intact_interior,molecules_in_contact,1.0
+300,3,last5,intact_interior,nn1 (A),6.076332249806522
+300,3,last5,intact_interior,nn2 (A),7.4906727697206605
+300,3,last5,intact_interior,n_within_6A,0.4821123595505618
+300,3,last5,intact_interior,n_within_8A,2.2149887640449437
+300,3,last5,intact_interior,frac_nn1<5A,0.16779775280898876
+300,3,first5,all,h_S (A),2.649703025817871
+300,3,first5,all,h_spin (A),13.132418632507324
+300,3,first5,all,sd_h_spin (A),6.612745761871338
+300,3,first5,all,theta_NO (deg),80.62221027853279
+300,3,first5,all,P2_NO,-0.10736992688282938
+300,3,first5,all,frac_NO_up (theta<60),0.26686524822695035
+300,3,first5,all,frac_NO_down (theta>120),0.11808510638297873
+300,3,first5,all,tilt (deg),35.0596418144501
+300,3,first5,all,gauche,0.3006187943262411
+300,3,first5,all,contact_frac (O-Au<3.5),0.15500709219858155
+300,3,first5,all,molecules_in_contact,23.0
+300,3,first5,all,nn1 (A),6.2819242933958055
+300,3,first5,all,nn2 (A),7.916238152040479
+300,3,first5,all,n_within_6A,0.4185531914893617
+300,3,first5,all,n_within_8A,1.8304113475177306
+300,3,first5,all,frac_nn1<5A,0.15466666666666667
+300,3,first5,interior,h_S (A),2.650470495223999
+300,3,first5,interior,h_spin (A),16.80678367614746
+300,3,first5,interior,sd_h_spin (A),4.452903747558594
+300,3,first5,interior,theta_NO (deg),71.10679738942123
+300,3,first5,interior,P2_NO,-0.11781952777355993
+300,3,first5,interior,frac_NO_up (theta<60),0.3429662921348315
+300,3,first5,interior,frac_NO_down (theta>120),0.03692134831460674
+300,3,first5,interior,tilt (deg),25.375407546617247
+300,3,first5,interior,gauche,0.2580112359550562
+300,3,first5,interior,contact_frac (O-Au<3.5),0.009528089887640449
+300,3,first5,interior,molecules_in_contact,1.0
+300,3,first5,interior,nn1 (A),6.07641882855977
+300,3,first5,interior,nn2 (A),7.4868903482301015
+300,3,first5,interior,n_within_6A,0.48698876404494384
+300,3,first5,interior,n_within_8A,2.1923370786516854
+300,3,first5,interior,frac_nn1<5A,0.17815730337078653
+300,3,first5,edge,h_S (A),2.6483888626098633
+300,3,first5,edge,h_spin (A),6.84360408782959
+300,3,first5,edge,sd_h_spin (A),4.6880364418029785
+300,3,first5,edge,theta_NO (deg),96.90820541566603
+300,3,first5,edge,P2_NO,-0.0894850330506175
+300,3,first5,edge,frac_NO_up (theta<60),0.1366153846153846
+300,3,first5,edge,frac_NO_down (theta>120),0.257
+300,3,first5,edge,tilt (deg),51.63458123439481
+300,3,first5,edge,gauche,0.37354326923076925
+300,3,first5,edge,contact_frac (O-Au<3.5),0.404
+300,3,first5,edge,molecules_in_contact,22.0
+300,3,first5,edge,nn1 (A),6.633654800519018
+300,3,first5,edge,nn2 (A),8.651083431639009
+300,3,first5,edge,n_within_6A,0.3014230769230769
+300,3,first5,edge,n_within_8A,1.2109615384615384
+300,3,first5,edge,frac_nn1<5A,0.11446153846153846
+300,3,first5,intact,h_S (A),2.649703025817871
+300,3,first5,intact,h_spin (A),13.132418632507324
+300,3,first5,intact,sd_h_spin (A),6.612745761871338
+300,3,first5,intact,theta_NO (deg),80.62221027853279
+300,3,first5,intact,P2_NO,-0.10736992688282938
+300,3,first5,intact,frac_NO_up (theta<60),0.26686524822695035
+300,3,first5,intact,frac_NO_down (theta>120),0.11808510638297873
+300,3,first5,intact,tilt (deg),35.0596418144501
+300,3,first5,intact,gauche,0.3006187943262411
+300,3,first5,intact,contact_frac (O-Au<3.5),0.15500709219858155
+300,3,first5,intact,molecules_in_contact,23.0
+300,3,first5,intact,nn1 (A),6.2819242933958055
+300,3,first5,intact,nn2 (A),7.916238152040479
+300,3,first5,intact,n_within_6A,0.4185531914893617
+300,3,first5,intact,n_within_8A,1.8304113475177306
+300,3,first5,intact,frac_nn1<5A,0.15466666666666667
+300,3,first5,intact_interior,h_S (A),2.650470495223999
+300,3,first5,intact_interior,h_spin (A),16.80678367614746
+300,3,first5,intact_interior,sd_h_spin (A),4.452903747558594
+300,3,first5,intact_interior,theta_NO (deg),71.10679738942123
+300,3,first5,intact_interior,P2_NO,-0.11781952777355993
+300,3,first5,intact_interior,frac_NO_up (theta<60),0.3429662921348315
+300,3,first5,intact_interior,frac_NO_down (theta>120),0.03692134831460674
+300,3,first5,intact_interior,tilt (deg),25.375407546617247
+300,3,first5,intact_interior,gauche,0.2580112359550562
+300,3,first5,intact_interior,contact_frac (O-Au<3.5),0.009528089887640449
+300,3,first5,intact_interior,molecules_in_contact,1.0
+300,3,first5,intact_interior,nn1 (A),6.07641882855977
+300,3,first5,intact_interior,nn2 (A),7.4868903482301015
+300,3,first5,intact_interior,n_within_6A,0.48698876404494384
+300,3,first5,intact_interior,n_within_8A,2.1923370786516854
+300,3,first5,intact_interior,frac_nn1<5A,0.17815730337078653
+100,1,last5,all,h_S (A),2.684499740600586
+100,1,last5,all,h_spin (A),17.02593994140625
+100,1,last5,all,sd_h_spin (A),6.404312610626221
+100,1,last5,all,theta_NO (deg),74.95447255288825
+100,1,last5,all,P2_NO,-0.05716843341445902
+100,1,last5,all,frac_NO_up (theta<60),0.32869503546099293
+100,1,last5,all,frac_NO_down (theta>120),0.09845390070921986
+100,1,last5,all,tilt (deg),22.525069140900637
+100,1,last5,all,gauche,0.14960106382978725
+100,1,last5,all,contact_frac (O-Au<3.5),0.07219858156028369
+100,1,last5,all,molecules_in_contact,10.0
+100,1,last5,all,nn1 (A),5.8422523795033126
+100,1,last5,all,nn2 (A),7.345919764784833
+100,1,last5,all,n_within_6A,0.5712624113475178
+100,1,last5,all,n_within_8A,2.4395744680851066
+100,1,last5,all,frac_nn1<5A,0.1884255319148936
+100,1,last5,interior,h_S (A),2.6826701164245605
+100,1,last5,interior,h_spin (A),19.721837997436523
+100,1,last5,interior,sd_h_spin (A),3.923443078994751
+100,1,last5,interior,theta_NO (deg),64.02114660181175
+100,1,last5,interior,P2_NO,-0.04899900163609359
+100,1,last5,interior,frac_NO_up (theta<60),0.4239111111111111
+100,1,last5,interior,frac_NO_down (theta>120),0.012844444444444445
+100,1,last5,interior,tilt (deg),19.080659502096015
+100,1,last5,interior,gauche,0.11954722222222222
+100,1,last5,interior,contact_frac (O-Au<3.5),0.0
+100,1,last5,interior,molecules_in_contact,0.0
+100,1,last5,interior,nn1 (A),5.688174934735018
+100,1,last5,interior,nn2 (A),7.072983200851498
+100,1,last5,interior,n_within_6A,0.6425777777777778
+100,1,last5,interior,n_within_8A,2.749711111111111
+100,1,last5,interior,frac_nn1<5A,0.1902
+100,1,last5,edge,h_S (A),2.6877286434173584
+100,1,last5,edge,h_spin (A),12.268475532531738
+100,1,last5,edge,sd_h_spin (A),7.125381946563721
+100,1,last5,edge,theta_NO (deg),94.24857717243499
+100,1,last5,edge,P2_NO,-0.07158507772922153
+100,1,last5,edge,frac_NO_up (theta<60),0.16066666666666668
+100,1,last5,edge,frac_NO_down (theta>120),0.2495294117647059
+100,1,last5,edge,tilt (deg),28.603439091732323
+100,1,last5,edge,gauche,0.20263725490196077
+100,1,last5,edge,contact_frac (O-Au<3.5),0.1996078431372549
+100,1,last5,edge,molecules_in_contact,10.0
+100,1,last5,edge,nn1 (A),6.114153752623832
+100,1,last5,edge,nn2 (A),7.827572524667189
+100,1,last5,edge,n_within_6A,0.44541176470588234
+100,1,last5,edge,n_within_8A,1.8922745098039215
+100,1,last5,edge,frac_nn1<5A,0.18529411764705883
+100,1,last5,intact,h_S (A),2.684499740600586
+100,1,last5,intact,h_spin (A),17.02593994140625
+100,1,last5,intact,sd_h_spin (A),6.404312610626221
+100,1,last5,intact,theta_NO (deg),74.95447255288825
+100,1,last5,intact,P2_NO,-0.05716843341445902
+100,1,last5,intact,frac_NO_up (theta<60),0.32869503546099293
+100,1,last5,intact,frac_NO_down (theta>120),0.09845390070921986
+100,1,last5,intact,tilt (deg),22.525069140900637
+100,1,last5,intact,gauche,0.14960106382978725
+100,1,last5,intact,contact_frac (O-Au<3.5),0.07219858156028369
+100,1,last5,intact,molecules_in_contact,10.0
+100,1,last5,intact,nn1 (A),5.8422523795033126
+100,1,last5,intact,nn2 (A),7.345919764784833
+100,1,last5,intact,n_within_6A,0.5712624113475178
+100,1,last5,intact,n_within_8A,2.4395744680851066
+100,1,last5,intact,frac_nn1<5A,0.1884255319148936
+100,1,last5,intact_interior,h_S (A),2.6826701164245605
+100,1,last5,intact_interior,h_spin (A),19.721837997436523
+100,1,last5,intact_interior,sd_h_spin (A),3.923443078994751
+100,1,last5,intact_interior,theta_NO (deg),64.02114660181175
+100,1,last5,intact_interior,P2_NO,-0.04899900163609359
+100,1,last5,intact_interior,frac_NO_up (theta<60),0.4239111111111111
+100,1,last5,intact_interior,frac_NO_down (theta>120),0.012844444444444445
+100,1,last5,intact_interior,tilt (deg),19.080659502096015
+100,1,last5,intact_interior,gauche,0.11954722222222222
+100,1,last5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,1,last5,intact_interior,molecules_in_contact,0.0
+100,1,last5,intact_interior,nn1 (A),5.688174934735018
+100,1,last5,intact_interior,nn2 (A),7.072983200851498
+100,1,last5,intact_interior,n_within_6A,0.6425777777777778
+100,1,last5,intact_interior,n_within_8A,2.749711111111111
+100,1,last5,intact_interior,frac_nn1<5A,0.1902
+100,1,first5,all,h_S (A),2.648674249649048
+100,1,first5,all,h_spin (A),17.46083641052246
+100,1,first5,all,sd_h_spin (A),6.1268157958984375
+100,1,first5,all,theta_NO (deg),74.2838776487571
+100,1,first5,all,P2_NO,-0.05402784604397168
+100,1,first5,all,frac_NO_up (theta<60),0.34087943262411347
+100,1,first5,all,frac_NO_down (theta>120),0.09831205673758865
+100,1,first5,all,tilt (deg),21.526489849917784
+100,1,first5,all,gauche,0.13540780141843972
+100,1,first5,all,contact_frac (O-Au<3.5),0.05604255319148936
+100,1,first5,all,molecules_in_contact,8.0
+100,1,first5,all,nn1 (A),5.871039112911833
+100,1,first5,all,nn2 (A),7.277210271696994
+100,1,first5,all,n_within_6A,0.5409645390070922
+100,1,first5,all,n_within_8A,2.4811063829787234
+100,1,first5,all,frac_nn1<5A,0.17886524822695035
+100,1,first5,interior,h_S (A),2.6499078273773193
+100,1,first5,interior,h_spin (A),19.890033721923828
+100,1,first5,interior,sd_h_spin (A),3.887119770050049
+100,1,first5,interior,theta_NO (deg),63.4152006035854
+100,1,first5,interior,P2_NO,-0.05034435355711033
+100,1,first5,interior,frac_NO_up (theta<60),0.4232888888888889
+100,1,first5,interior,frac_NO_down (theta>120),0.012844444444444445
+100,1,first5,interior,tilt (deg),18.571587148419948
+100,1,first5,interior,gauche,0.117125
+100,1,first5,interior,contact_frac (O-Au<3.5),0.0
+100,1,first5,interior,molecules_in_contact,0.0
+100,1,first5,interior,nn1 (A),5.74698421359537
+100,1,first5,interior,nn2 (A),7.0285177481178165
+100,1,first5,interior,n_within_6A,0.6021333333333333
+100,1,first5,interior,n_within_8A,2.8074
+100,1,first5,interior,frac_nn1<5A,0.16891111111111112
+100,1,first5,edge,h_S (A),2.646496534347534
+100,1,first5,edge,h_spin (A),13.174015045166016
+100,1,first5,edge,sd_h_spin (A),6.9517364501953125
+100,1,first5,edge,theta_NO (deg),93.46389596376594
+100,1,first5,edge,P2_NO,-0.06052812690313876
+100,1,first5,edge,frac_NO_up (theta<60),0.19545098039215686
+100,1,first5,edge,frac_NO_down (theta>120),0.2491372549019608
+100,1,first5,edge,tilt (deg),26.74102402903161
+100,1,first5,edge,gauche,0.16767156862745097
+100,1,first5,edge,contact_frac (O-Au<3.5),0.15494117647058825
+100,1,first5,edge,molecules_in_contact,8.0
+100,1,first5,edge,nn1 (A),6.089959523470299
+100,1,first5,edge,nn2 (A),7.716079430954363
+100,1,first5,edge,n_within_6A,0.43301960784313726
+100,1,first5,edge,n_within_8A,1.9052941176470588
+100,1,first5,edge,frac_nn1<5A,0.1964313725490196
+100,1,first5,intact,h_S (A),2.648674249649048
+100,1,first5,intact,h_spin (A),17.46083641052246
+100,1,first5,intact,sd_h_spin (A),6.1268157958984375
+100,1,first5,intact,theta_NO (deg),74.2838776487571
+100,1,first5,intact,P2_NO,-0.05402784604397168
+100,1,first5,intact,frac_NO_up (theta<60),0.34087943262411347
+100,1,first5,intact,frac_NO_down (theta>120),0.09831205673758865
+100,1,first5,intact,tilt (deg),21.526489849917784
+100,1,first5,intact,gauche,0.13540780141843972
+100,1,first5,intact,contact_frac (O-Au<3.5),0.05604255319148936
+100,1,first5,intact,molecules_in_contact,8.0
+100,1,first5,intact,nn1 (A),5.871039112911833
+100,1,first5,intact,nn2 (A),7.277210271696994
+100,1,first5,intact,n_within_6A,0.5409645390070922
+100,1,first5,intact,n_within_8A,2.4811063829787234
+100,1,first5,intact,frac_nn1<5A,0.17886524822695035
+100,1,first5,intact_interior,h_S (A),2.6499078273773193
+100,1,first5,intact_interior,h_spin (A),19.890033721923828
+100,1,first5,intact_interior,sd_h_spin (A),3.887119770050049
+100,1,first5,intact_interior,theta_NO (deg),63.4152006035854
+100,1,first5,intact_interior,P2_NO,-0.05034435355711033
+100,1,first5,intact_interior,frac_NO_up (theta<60),0.4232888888888889
+100,1,first5,intact_interior,frac_NO_down (theta>120),0.012844444444444445
+100,1,first5,intact_interior,tilt (deg),18.571587148419948
+100,1,first5,intact_interior,gauche,0.117125
+100,1,first5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,1,first5,intact_interior,molecules_in_contact,0.0
+100,1,first5,intact_interior,nn1 (A),5.74698421359537
+100,1,first5,intact_interior,nn2 (A),7.0285177481178165
+100,1,first5,intact_interior,n_within_6A,0.6021333333333333
+100,1,first5,intact_interior,n_within_8A,2.8074
+100,1,first5,intact_interior,frac_nn1<5A,0.16891111111111112
+100,2,last5,all,h_S (A),2.687927722930908
+100,2,last5,all,h_spin (A),16.950632095336914
+100,2,last5,all,sd_h_spin (A),6.7664055824279785
+100,2,last5,all,theta_NO (deg),73.26679525136588
+100,2,last5,all,P2_NO,0.02240556815251267
+100,2,last5,all,frac_NO_up (theta<60),0.4269645390070922
+100,2,last5,all,frac_NO_down (theta>120),0.11811347517730496
+100,2,last5,all,tilt (deg),21.658202128383795
+100,2,last5,all,gauche,0.16866843971631207
+100,2,last5,all,contact_frac (O-Au<3.5),0.10382978723404256
+100,2,last5,all,molecules_in_contact,15.0
+100,2,last5,all,nn1 (A),5.884604000197017
+100,2,last5,all,nn2 (A),7.476489050033598
+100,2,last5,all,n_within_6A,0.5514326241134752
+100,2,last5,all,n_within_8A,2.442723404255319
+100,2,last5,all,frac_nn1<5A,0.18512056737588653
+100,2,last5,interior,h_S (A),2.689650774002075
+100,2,last5,interior,h_spin (A),20.353538513183594
+100,2,last5,interior,sd_h_spin (A),3.5228588581085205
+100,2,last5,interior,theta_NO (deg),58.66066486444921
+100,2,last5,interior,P2_NO,0.04266575478298403
+100,2,last5,interior,frac_NO_up (theta<60),0.569752808988764
+100,2,last5,interior,frac_NO_down (theta>120),0.012651685393258427
+100,2,last5,interior,tilt (deg),18.163891623906633
+100,2,last5,interior,gauche,0.13348314606741574
+100,2,last5,interior,contact_frac (O-Au<3.5),0.0
+100,2,last5,interior,molecules_in_contact,0.0
+100,2,last5,interior,nn1 (A),5.671744334751047
+100,2,last5,interior,nn2 (A),7.083069952324747
+100,2,last5,interior,n_within_6A,0.6411460674157303
+100,2,last5,interior,n_within_8A,2.879011235955056
+100,2,last5,interior,frac_nn1<5A,0.21289887640449437
+100,2,last5,edge,h_S (A),2.6849780082702637
+100,2,last5,edge,h_spin (A),11.126421928405762
+100,2,last5,edge,sd_h_spin (A),7.011702537536621
+100,2,last5,edge,theta_NO (deg),98.26574918281942
+100,2,last5,edge,P2_NO,-0.012270520503486405
+100,2,last5,edge,frac_NO_up (theta<60),0.18257692307692308
+100,2,last5,edge,frac_NO_down (theta>120),0.2986153846153846
+100,2,last5,edge,tilt (deg),27.638848953354323
+100,2,last5,edge,gauche,0.2288894230769231
+100,2,last5,edge,contact_frac (O-Au<3.5),0.2815384615384615
+100,2,last5,edge,molecules_in_contact,15.0
+100,2,last5,edge,nn1 (A),6.2489215045180035
+100,2,last5,edge,nn2 (A),8.149840967266055
+100,2,last5,edge,n_within_6A,0.3978846153846154
+100,2,last5,edge,n_within_8A,1.696
+100,2,last5,edge,frac_nn1<5A,0.13757692307692307
+100,2,last5,intact,h_S (A),2.687927722930908
+100,2,last5,intact,h_spin (A),16.950632095336914
+100,2,last5,intact,sd_h_spin (A),6.7664055824279785
+100,2,last5,intact,theta_NO (deg),73.26679525136588
+100,2,last5,intact,P2_NO,0.02240556815251267
+100,2,last5,intact,frac_NO_up (theta<60),0.4269645390070922
+100,2,last5,intact,frac_NO_down (theta>120),0.11811347517730496
+100,2,last5,intact,tilt (deg),21.658202128383795
+100,2,last5,intact,gauche,0.16866843971631207
+100,2,last5,intact,contact_frac (O-Au<3.5),0.10382978723404256
+100,2,last5,intact,molecules_in_contact,15.0
+100,2,last5,intact,nn1 (A),5.884604000197017
+100,2,last5,intact,nn2 (A),7.476489050033598
+100,2,last5,intact,n_within_6A,0.5514326241134752
+100,2,last5,intact,n_within_8A,2.442723404255319
+100,2,last5,intact,frac_nn1<5A,0.18512056737588653
+100,2,last5,intact_interior,h_S (A),2.689650774002075
+100,2,last5,intact_interior,h_spin (A),20.353538513183594
+100,2,last5,intact_interior,sd_h_spin (A),3.5228588581085205
+100,2,last5,intact_interior,theta_NO (deg),58.66066486444921
+100,2,last5,intact_interior,P2_NO,0.04266575478298403
+100,2,last5,intact_interior,frac_NO_up (theta<60),0.569752808988764
+100,2,last5,intact_interior,frac_NO_down (theta>120),0.012651685393258427
+100,2,last5,intact_interior,tilt (deg),18.163891623906633
+100,2,last5,intact_interior,gauche,0.13348314606741574
+100,2,last5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,2,last5,intact_interior,molecules_in_contact,0.0
+100,2,last5,intact_interior,nn1 (A),5.671744334751047
+100,2,last5,intact_interior,nn2 (A),7.083069952324747
+100,2,last5,intact_interior,n_within_6A,0.6411460674157303
+100,2,last5,intact_interior,n_within_8A,2.879011235955056
+100,2,last5,intact_interior,frac_nn1<5A,0.21289887640449437
+100,2,first5,all,h_S (A),2.6508841514587402
+100,2,first5,all,h_spin (A),17.584915161132812
+100,2,first5,all,sd_h_spin (A),6.488739490509033
+100,2,first5,all,theta_NO (deg),71.98025967747068
+100,2,first5,all,P2_NO,0.024385220053266196
+100,2,first5,all,frac_NO_up (theta<60),0.4306808510638298
+100,2,first5,all,frac_NO_down (theta>120),0.11643971631205674
+100,2,first5,all,tilt (deg),20.00896529575539
+100,2,first5,all,gauche,0.1465514184397163
+100,2,first5,all,contact_frac (O-Au<3.5),0.08628368794326241
+100,2,first5,all,molecules_in_contact,14.0
+100,2,first5,all,nn1 (A),5.925329015965564
+100,2,first5,all,nn2 (A),7.478188399383518
+100,2,first5,all,n_within_6A,0.5666666666666667
+100,2,first5,all,n_within_8A,2.4607659574468084
+100,2,first5,all,frac_nn1<5A,0.2024113475177305
+100,2,first5,interior,h_S (A),2.6524226665496826
+100,2,first5,interior,h_spin (A),20.74898910522461
+100,2,first5,interior,sd_h_spin (A),3.3953380584716797
+100,2,first5,interior,theta_NO (deg),57.5683828761048
+100,2,first5,interior,P2_NO,0.06496053376488356
+100,2,first5,interior,frac_NO_up (theta<60),0.5832359550561798
+100,2,first5,interior,frac_NO_down (theta>120),0.01658426966292135
+100,2,first5,interior,tilt (deg),17.1098070500905
+100,2,first5,interior,gauche,0.11748595505617977
+100,2,first5,interior,contact_frac (O-Au<3.5),0.0
+100,2,first5,interior,molecules_in_contact,0.0
+100,2,first5,interior,nn1 (A),5.673085686119889
+100,2,first5,interior,nn2 (A),7.053894334203606
+100,2,first5,interior,n_within_6A,0.6599101123595505
+100,2,first5,interior,n_within_8A,2.9306067415730337
+100,2,first5,interior,frac_nn1<5A,0.24862921348314607
+100,2,first5,edge,h_S (A),2.6482512950897217
+100,2,first5,edge,h_spin (A),12.169478416442871
+100,2,first5,edge,sd_h_spin (A),6.926251411437988
+100,2,first5,edge,theta_NO (deg),96.64674112596228
+100,2,first5,edge,P2_NO,-0.04506098995315585
+100,2,first5,edge,frac_NO_up (theta<60),0.16957692307692307
+100,2,first5,edge,frac_NO_down (theta>120),0.28734615384615386
+100,2,first5,edge,tilt (deg),24.970986139297217
+100,2,first5,edge,gauche,0.19629807692307694
+100,2,first5,edge,contact_frac (O-Au<3.5),0.23396153846153847
+100,2,first5,edge,molecules_in_contact,14.0
+100,2,first5,edge,nn1 (A),6.35705317666297
+100,2,first5,edge,nn2 (A),8.204384010941444
+100,2,first5,edge,n_within_6A,0.40707692307692306
+100,2,first5,edge,n_within_8A,1.6566153846153846
+100,2,first5,edge,frac_nn1<5A,0.12330769230769231
+100,2,first5,intact,h_S (A),2.6508841514587402
+100,2,first5,intact,h_spin (A),17.584915161132812
+100,2,first5,intact,sd_h_spin (A),6.488739490509033
+100,2,first5,intact,theta_NO (deg),71.98025967747068
+100,2,first5,intact,P2_NO,0.024385220053266196
+100,2,first5,intact,frac_NO_up (theta<60),0.4306808510638298
+100,2,first5,intact,frac_NO_down (theta>120),0.11643971631205674
+100,2,first5,intact,tilt (deg),20.00896529575539
+100,2,first5,intact,gauche,0.1465514184397163
+100,2,first5,intact,contact_frac (O-Au<3.5),0.08628368794326241
+100,2,first5,intact,molecules_in_contact,14.0
+100,2,first5,intact,nn1 (A),5.925329015965564
+100,2,first5,intact,nn2 (A),7.478188399383518
+100,2,first5,intact,n_within_6A,0.5666666666666667
+100,2,first5,intact,n_within_8A,2.4607659574468084
+100,2,first5,intact,frac_nn1<5A,0.2024113475177305
+100,2,first5,intact_interior,h_S (A),2.6524226665496826
+100,2,first5,intact_interior,h_spin (A),20.74898910522461
+100,2,first5,intact_interior,sd_h_spin (A),3.3953380584716797
+100,2,first5,intact_interior,theta_NO (deg),57.5683828761048
+100,2,first5,intact_interior,P2_NO,0.06496053376488356
+100,2,first5,intact_interior,frac_NO_up (theta<60),0.5832359550561798
+100,2,first5,intact_interior,frac_NO_down (theta>120),0.01658426966292135
+100,2,first5,intact_interior,tilt (deg),17.1098070500905
+100,2,first5,intact_interior,gauche,0.11748595505617977
+100,2,first5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,2,first5,intact_interior,molecules_in_contact,0.0
+100,2,first5,intact_interior,nn1 (A),5.673085686119889
+100,2,first5,intact_interior,nn2 (A),7.053894334203606
+100,2,first5,intact_interior,n_within_6A,0.6599101123595505
+100,2,first5,intact_interior,n_within_8A,2.9306067415730337
+100,2,first5,intact_interior,frac_nn1<5A,0.24862921348314607
+100,3,last5,all,h_S (A),2.685319662094116
+100,3,last5,all,h_spin (A),17.899574279785156
+100,3,last5,all,sd_h_spin (A),5.841897487640381
+100,3,last5,all,theta_NO (deg),70.56334029941138
+100,3,last5,all,P2_NO,0.020842850758979417
+100,3,last5,all,frac_NO_up (theta<60),0.4603262411347518
+100,3,last5,all,frac_NO_down (theta>120),0.11039716312056738
+100,3,last5,all,tilt (deg),22.641779610225118
+100,3,last5,all,gauche,0.1393741134751773
+100,3,last5,all,contact_frac (O-Au<3.5),0.06313475177304964
+100,3,last5,all,molecules_in_contact,9.0
+100,3,last5,all,nn1 (A),5.925458038835088
+100,3,last5,all,nn2 (A),7.490650793246336
+100,3,last5,all,n_within_6A,0.5373049645390071
+100,3,last5,all,n_within_8A,2.4332198581560283
+100,3,last5,all,frac_nn1<5A,0.17713475177304966
+100,3,last5,interior,h_S (A),2.68554949760437
+100,3,last5,interior,h_spin (A),19.88656997680664
+100,3,last5,interior,sd_h_spin (A),4.139501094818115
+100,3,last5,interior,theta_NO (deg),59.559736122143065
+100,3,last5,interior,P2_NO,0.029921784878046576
+100,3,last5,interior,frac_NO_up (theta<60),0.5671910112359551
+100,3,last5,interior,frac_NO_down (theta>120),0.015078651685393258
+100,3,last5,interior,tilt (deg),22.523863680999614
+100,3,last5,interior,gauche,0.12607022471910112
+100,3,last5,interior,contact_frac (O-Au<3.5),0.0
+100,3,last5,interior,molecules_in_contact,0.0
+100,3,last5,interior,nn1 (A),5.6684568375117355
+100,3,last5,interior,nn2 (A),6.929626626225572
+100,3,last5,interior,n_within_6A,0.6486067415730337
+100,3,last5,interior,n_within_8A,2.9141573033707866
+100,3,last5,interior,frac_nn1<5A,0.20797752808988765
+100,3,last5,edge,h_S (A),2.6849260330200195
+100,3,last5,edge,h_spin (A),14.498757362365723
+100,3,last5,edge,sd_h_spin (A),6.699833869934082
+100,3,last5,edge,theta_NO (deg),89.39643206435137
+100,3,last5,edge,P2_NO,0.005303905824422147
+100,3,last5,edge,frac_NO_up (theta<60),0.27742307692307694
+100,3,last5,edge,frac_NO_down (theta>120),0.27353846153846156
+100,3,last5,edge,tilt (deg),22.84359725832262
+100,3,last5,edge,gauche,0.16214423076923076
+100,3,last5,edge,contact_frac (O-Au<3.5),0.1711923076923077
+100,3,last5,edge,molecules_in_contact,9.0
+100,3,last5,edge,nn1 (A),6.365325479561595
+100,3,last5,edge,nn2 (A),8.45086523295495
+100,3,last5,edge,n_within_6A,0.3468076923076923
+100,3,last5,edge,n_within_8A,1.6100769230769232
+100,3,last5,edge,frac_nn1<5A,0.12434615384615384
+100,3,last5,intact,h_S (A),2.685319662094116
+100,3,last5,intact,h_spin (A),17.899574279785156
+100,3,last5,intact,sd_h_spin (A),5.841897487640381
+100,3,last5,intact,theta_NO (deg),70.56334029941138
+100,3,last5,intact,P2_NO,0.020842850758979417
+100,3,last5,intact,frac_NO_up (theta<60),0.4603262411347518
+100,3,last5,intact,frac_NO_down (theta>120),0.11039716312056738
+100,3,last5,intact,tilt (deg),22.641779610225118
+100,3,last5,intact,gauche,0.1393741134751773
+100,3,last5,intact,contact_frac (O-Au<3.5),0.06313475177304964
+100,3,last5,intact,molecules_in_contact,9.0
+100,3,last5,intact,nn1 (A),5.925458038835088
+100,3,last5,intact,nn2 (A),7.490650793246336
+100,3,last5,intact,n_within_6A,0.5373049645390071
+100,3,last5,intact,n_within_8A,2.4332198581560283
+100,3,last5,intact,frac_nn1<5A,0.17713475177304966
+100,3,last5,intact_interior,h_S (A),2.68554949760437
+100,3,last5,intact_interior,h_spin (A),19.88656997680664
+100,3,last5,intact_interior,sd_h_spin (A),4.139501094818115
+100,3,last5,intact_interior,theta_NO (deg),59.559736122143065
+100,3,last5,intact_interior,P2_NO,0.029921784878046576
+100,3,last5,intact_interior,frac_NO_up (theta<60),0.5671910112359551
+100,3,last5,intact_interior,frac_NO_down (theta>120),0.015078651685393258
+100,3,last5,intact_interior,tilt (deg),22.523863680999614
+100,3,last5,intact_interior,gauche,0.12607022471910112
+100,3,last5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,3,last5,intact_interior,molecules_in_contact,0.0
+100,3,last5,intact_interior,nn1 (A),5.6684568375117355
+100,3,last5,intact_interior,nn2 (A),6.929626626225572
+100,3,last5,intact_interior,n_within_6A,0.6486067415730337
+100,3,last5,intact_interior,n_within_8A,2.9141573033707866
+100,3,last5,intact_interior,frac_nn1<5A,0.20797752808988765
+100,3,first5,all,h_S (A),2.6491539478302
+100,3,first5,all,h_spin (A),18.32201385498047
+100,3,first5,all,sd_h_spin (A),5.354854583740234
+100,3,first5,all,theta_NO (deg),68.96797080151518
+100,3,first5,all,P2_NO,0.008590199804847149
+100,3,first5,all,frac_NO_up (theta<60),0.45774468085106385
+100,3,first5,all,frac_NO_down (theta>120),0.09065248226950355
+100,3,first5,all,tilt (deg),21.98885688252316
+100,3,first5,all,gauche,0.12737056737588653
+100,3,first5,all,contact_frac (O-Au<3.5),0.03629787234042553
+100,3,first5,all,molecules_in_contact,5.0
+100,3,first5,all,nn1 (A),5.851178453418345
+100,3,first5,all,nn2 (A),7.3397538819370975
+100,3,first5,all,n_within_6A,0.5668936170212766
+100,3,first5,all,n_within_8A,2.514695035460993
+100,3,first5,all,frac_nn1<5A,0.1788368794326241
+100,3,first5,interior,h_S (A),2.6505203247070312
+100,3,first5,interior,h_spin (A),19.988847732543945
+100,3,first5,interior,sd_h_spin (A),4.0784831047058105
+100,3,first5,interior,theta_NO (deg),58.85258239942766
+100,3,first5,interior,P2_NO,0.03357576462543493
+100,3,first5,interior,frac_NO_up (theta<60),0.5674606741573034
+100,3,first5,interior,frac_NO_down (theta>120),0.011191011235955057
+100,3,first5,interior,tilt (deg),22.216930984582735
+100,3,first5,interior,gauche,0.12031460674157303
+100,3,first5,interior,contact_frac (O-Au<3.5),0.0
+100,3,first5,interior,molecules_in_contact,0.0
+100,3,first5,interior,nn1 (A),5.665119977472902
+100,3,first5,interior,nn2 (A),6.895970634141759
+100,3,first5,interior,n_within_6A,0.6600898876404494
+100,3,first5,interior,n_within_8A,2.9721573033707864
+100,3,first5,interior,frac_nn1<5A,0.21341573033707864
+100,3,first5,edge,h_S (A),2.646815299987793
+100,3,first5,edge,h_spin (A),15.469165802001953
+100,3,first5,edge,sd_h_spin (A),6.032261848449707
+100,3,first5,edge,theta_NO (deg),86.28084710508806
+100,3,first5,edge,P2_NO,-0.034173555368851145
+100,3,first5,edge,frac_NO_up (theta<60),0.2699615384615385
+100,3,first5,edge,frac_NO_down (theta>120),0.22665384615384615
+100,3,first5,edge,tilt (deg),21.598499284767346
+100,3,first5,edge,gauche,0.13944711538461538
+100,3,first5,edge,contact_frac (O-Au<3.5),0.09842307692307692
+100,3,first5,edge,molecules_in_contact,5.0
+100,3,first5,edge,nn1 (A),6.169624691094198
+100,3,first5,edge,nn2 (A),8.099305979125274
+100,3,first5,edge,n_within_6A,0.4073846153846154
+100,3,first5,edge,n_within_8A,1.7317307692307693
+100,3,first5,edge,frac_nn1<5A,0.11965384615384615
+100,3,first5,intact,h_S (A),2.6491539478302
+100,3,first5,intact,h_spin (A),18.32201385498047
+100,3,first5,intact,sd_h_spin (A),5.354854583740234
+100,3,first5,intact,theta_NO (deg),68.96797080151518
+100,3,first5,intact,P2_NO,0.008590199804847149
+100,3,first5,intact,frac_NO_up (theta<60),0.45774468085106385
+100,3,first5,intact,frac_NO_down (theta>120),0.09065248226950355
+100,3,first5,intact,tilt (deg),21.98885688252316
+100,3,first5,intact,gauche,0.12737056737588653
+100,3,first5,intact,contact_frac (O-Au<3.5),0.03629787234042553
+100,3,first5,intact,molecules_in_contact,5.0
+100,3,first5,intact,nn1 (A),5.851178453418345
+100,3,first5,intact,nn2 (A),7.3397538819370975
+100,3,first5,intact,n_within_6A,0.5668936170212766
+100,3,first5,intact,n_within_8A,2.514695035460993
+100,3,first5,intact,frac_nn1<5A,0.1788368794326241
+100,3,first5,intact_interior,h_S (A),2.6505203247070312
+100,3,first5,intact_interior,h_spin (A),19.988847732543945
+100,3,first5,intact_interior,sd_h_spin (A),4.0784831047058105
+100,3,first5,intact_interior,theta_NO (deg),58.85258239942766
+100,3,first5,intact_interior,P2_NO,0.03357576462543493
+100,3,first5,intact_interior,frac_NO_up (theta<60),0.5674606741573034
+100,3,first5,intact_interior,frac_NO_down (theta>120),0.011191011235955057
+100,3,first5,intact_interior,tilt (deg),22.216930984582735
+100,3,first5,intact_interior,gauche,0.12031460674157303
+100,3,first5,intact_interior,contact_frac (O-Au<3.5),0.0
+100,3,first5,intact_interior,molecules_in_contact,0.0
+100,3,first5,intact_interior,nn1 (A),5.665119977472902
+100,3,first5,intact_interior,nn2 (A),6.895970634141759
+100,3,first5,intact_interior,n_within_6A,0.6600898876404494
+100,3,first5,intact_interior,n_within_8A,2.9721573033707864
+100,3,first5,intact_interior,frac_nn1<5A,0.21341573033707864

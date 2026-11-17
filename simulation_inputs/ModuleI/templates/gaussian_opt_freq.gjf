@@ -1,0 +1,10 @@
+%nprocshared=40
+%mem=64GB
+%chk=PTEMPO_opt_freq.chk
+# opt=tight freq B3LYP/def2TZVP empiricaldispersion=gd3 int=ultrafine
+
+PTEMPO: geometry optimization + harmonic frequencies (doublet)
+
+0 2
+[Cartesian coordinates in Angstrom]
+

@@ -1,0 +1,44 @@
+{
+ "T300_r1": {
+  "all": 141,
+  "interior": 89,
+  "edge": 52,
+  "intact": 141,
+  "intact_interior": 89
+ },
+ "T300_r2": {
+  "all": 141,
+  "interior": 90,
+  "edge": 51,
+  "intact": 141,
+  "intact_interior": 90
+ },
+ "T300_r3": {
+  "all": 141,
+  "interior": 89,
+  "edge": 52,
+  "intact": 141,
+  "intact_interior": 89
+ },
+ "T100_r1": {
+  "all": 141,
+  "interior": 90,
+  "edge": 51,
+  "intact": 141,
+  "intact_interior": 90
+ },
+ "T100_r2": {
+  "all": 141,
+  "interior": 89,
+  "edge": 52,
+  "intact": 141,
+  "intact_interior": 89
+ },
+ "T100_r3": {
+  "all": 141,
+  "interior": 89,
+  "edge": 52,
+  "intact": 141,
+  "intact_interior": 89
+ }
+}

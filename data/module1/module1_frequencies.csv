@@ -1,0 +1,22 @@
+molecule,mode,freq_cm1,source
+TEMPO,1,78.3,meeting22nd.py (Net Mode Resolved Coupling block; array labelled nu_ptempo there but contains the 3 TEMPO modes)
+TEMPO,2,117.7,meeting22nd.py
+TEMPO,3,197.8,meeting22nd.py
+PTEMPO,1,29.8,meeting22nd.py (array labelled nu_tempo there but contains the 8 PTEMPO modes)
+PTEMPO,2,56.7,vibcontrib_ptempo.dat (56.6 in one notebook block)
+PTEMPO,3,72.8,meeting22nd.py
+PTEMPO,4,86.6,meeting22nd.py
+PTEMPO,5,116.4,meeting22nd.py
+PTEMPO,6,158.8,meeting22nd.py
+PTEMPO,7,196.7,meeting22nd.py
+PTEMPO,8,207.4,meeting22nd.py
+PTEMPO-alkyl,1,5.5107,selected_frequencies.dat (user)
+PTEMPO-alkyl,6,30.8778,selected_frequencies.dat (user)
+PTEMPO-alkyl,7,41.0875,selected_frequencies.dat (user)
+PTEMPO-alkyl,8,45.5808,selected_frequencies.dat (user)
+PTEMPO-alkyl,9,53.9088,selected_frequencies.dat (user)
+PTEMPO-alkyl,10,61.2290,selected_frequencies.dat (user)
+PTEMPO-alkyl,11,70.7422,selected_frequencies.dat (user)
+PTEMPO-alkyl,12,80.4347,selected_frequencies.dat (user)
+PTEMPO-alkyl,13,84.6708,selected_frequencies.dat (user)
+PTEMPO-alkyl,24,196.2643,selected_frequencies.dat (user)
