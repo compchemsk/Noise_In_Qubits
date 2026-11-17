@@ -1,14 +1,3 @@
-"""
-config.py -- all file-system locations used by the analysis scripts.
-
-Every path can be overridden with an environment variable, so the repository
-works wherever it is cloned. Defaults assume the repository layout:
-
-    Noise_In_Qubits/
-        python_codes/          (this folder)
-        data/  tables/  Figures_MS/  Figures_ESI/
-        simulation_inputs/ModuleI | ModuleII | ModuleIII
-"""
 import os
 ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 INPUTS = os.path.join(ROOT, "simulation_inputs")
