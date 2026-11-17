@@ -104,8 +104,6 @@ noise_in_qubits/
 ├── data/                         processed data (module1 … module4): the inputs of every figure and table
 ├── tables/                       LaTeX tables written by the scripts
 ├── Figures_MS/  Figures_ESI/     figures written by the scripts
-└── paper_V4/                     Manuscript_V4.tex, ESI_V4.tex, References_V4.bib, latexmkrc, aux, bbl, PDFs,
-                                  Figures_MS_V4/, Figures_ESI_V4/, tables_V4/
 ```
 
 ---
@@ -141,16 +139,8 @@ bash run_all.sh
 | `bash run_all.sh m4` | Module IV: TEMPO vibrations inside the film, Figure 5 | ~5 min |
 | `bash run_all.sh extra` | Structures figure (Figure 1) and TOC graphic | < 1 min |
 
-**Step 5: Compile the paper**
-```bash
-cd paper_V4
-pdflatex ESI_V4 && bibtex ESI_V4 && pdflatex ESI_V4 && pdflatex ESI_V4      # ESI first
-pdflatex Manuscript_V4 && bibtex Manuscript_V4 && pdflatex Manuscript_V4 && pdflatex Manuscript_V4
-# or simply: latexmk -pdf Manuscript_V4   (latexmkrc builds the ESI first)
-```
-The figures used by the paper are already in `paper_V4/Figures_MS_V4/` and `paper_V4/Figures_ESI_V4/`. After you rerun the scripts, copy the new files from `Figures_MS/` and `Figures_ESI/` into these folders. `FigS_structures.png` goes into `Figures_MS_V4/`, because it is Figure 1 of the paper.
 
-**Step 6 (optional, experts): Start from the raw MD trajectories (~23 GB)**
+**Step 5 (optional, experts): Start from the raw MD trajectories (~23 GB)**
 ```bash
 # put the trajectories in md_raw/{100K,300K}/rep{1,2,3}/TEMPO-SAM-11.xtc
 cd python_codes
@@ -170,7 +160,7 @@ cd .. && bash run_all.sh                  # everything downstream
 
 ## 🖼️ Which figure comes from which script
 
-### Main-text figures (Manuscript_V4)
+### Main-text figures
 
 | Paper figure | File | Script | What it shows |
 |---|---|---|---|
@@ -183,7 +173,7 @@ cd .. && bash run_all.sh                  # everything downstream
 | **Figure 7** | `Figures_MS/Figure5_exchange_network` | `m3_10_figures_network.py` | (a) 141 × 141 coupling map. (b, c) Exchange networks on the surface (close pairs ringed). (d) Distribution of couplings. (e) Partners per radical. (f) Partners by class. |
 | TOC graphic | `Figures_MS/TOC_graphic` | `toc_graphic.py` | Table-of-contents graphic (3.25 × 1.75 in). |
 
-### Supporting-information figures (ESI_V4)
+### Supporting-information figures 
 
 | ESI figure | File (`Figures_ESI/`) | Script | What it shows |
 |---|---|---|---|
@@ -348,5 +338,5 @@ Code and documentation are released under the MIT License (see `LICENSE`).
 
 ## 📬 Contact
 
-**Soumyajit Karmakar** and **Sabyashachi Mishra** (mishra@chem.iitkgp.ac.in)
+**Soumyajit Karmakar** (soumyajitkarmakar.iit@gmail.com)
 Department of Chemistry, Indian Institute of Technology Kharagpur, India
