@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""fig_structures.py -- skeletal formulas of TEMPO, PTEMPO and PTEMPO-alkyl, side by side.
-
-Drawn from explicit 2D coordinates (no external chemistry toolkit). Line ends and vertices are
-carbon atoms with implicit hydrogens; N and O are labelled; O carries the unpaired electron.
-  TEMPO        2,2,6,6-tetramethylpiperidin-1-oxyl                         C9H18NO
-  PTEMPO       4-(prop-2-yn-1-yloxy)-TEMPO                                 C12H20NO2
-  PTEMPO-alkyl 4-{[1-(11-sulfanylundecyl)-1H-1,2,3-triazol-4-yl]methoxy}-TEMPO   C23H43N4O2S
-               (click product with the azidoundecanethiol of the monolayer; SH in place of the Au-S bond;
-                structure as in raw/module1/PTEMPO-alkyl-11.log)
-"""
 import os, numpy as np
 import matplotlib.pyplot as plt
 
